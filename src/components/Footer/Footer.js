@@ -12,7 +12,7 @@ function Footer(){
         <footer className="centered" style={{color:nonThemeColor}}>
             <CopyrightIcon/>
             &nbsp;{currentYear}
-            &nbsp;Web -&nbsp; {PersonalData.firstName}&nbsp;{PersonalData.lastName}
+            &nbsp;Ron -&nbsp; {PersonalData.firstName}&nbsp;{PersonalData.lastName}
         </footer>
     )
 }
