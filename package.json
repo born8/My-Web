@@ -1,7 +1,7 @@
 {
   "name": "My-Web",
   "version": "0.1.0",
-  "homepage": "https://saox.my.id",
+  "homepage": "https://born8.github.io/My-Web",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
